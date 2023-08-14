@@ -2,19 +2,19 @@
 /*链接卡片*/
 @media (max-width: 1200px) {
     .col-sm-3 {
-        width: 25% !important;
+        width: 33.3% !important;
     }
 }
 
 @media (max-width: 768px) {
     .col-sm-3 {
-        width: 33.3% !important;
+        width: 100% !important;
     }
 }
 
 @media (max-width: 580px) {
     .col-sm-3 {
-        width: 50% !important;
+        width: 100% !important;
     }
 }
 
