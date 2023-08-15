@@ -1,0 +1,149 @@
+---
+################
+## 页面配置
+################
+# 作者标题
+user_name: ykwang
+# 网站名称
+site_name: OneNav
+# 网站Favicon
+shortcut_icon: https://cdn.jsdelivr.net/gh/MadisonWirtanen/image-hosting-web-site@main/sq.png
+# 网站LOGO
+# CSS参考 https://lf26-cdn-tos.bytecdntp.com/cdn/expire-1-y/font-awesome/6.0.0/css/all.min.css
+# 样式可参考 https://www.xicons.org/ 中的 fa 下对应图标
+# 找到所需图标后到上述CSS文件中查找对应名称的代码 注意网站中的图标名称与CSS文件中的不完全对应
+# 一般需在小写大写衔接处加 - 且全部转为小写 并在前面加上 fa-solid 或 fa-brands
+# 如找到图标名称为 GraduationCap 则使用时填写 fa-graduation-cap
+# 特别的如图标 Github 使用时应填写 fa-brands fa-github
+logo: fa-solid fa-compass
+# 网站关键字（可选）
+keywords: 导航页, 导航, OneNav, GenEasy, Github, Github Pages
+# 网站描述（可选）
+description: 个人网址集
+# 友情链接页面 URL（可选）
+# url: https://links.ykwang.dynv6.net
+# 社交分享图片（可选）
+# og_img: https://avatars.githubusercontent.com/u/96573387?s=200&v=4
+# 主页
+home_url: https://www.ykwang.top/
+# 邮箱
+email: email@ykwang.top
+# GitHub
+github_url: https://github.com/MadisonWirtanen
+
+# 网站 about 链接（可选）
+# about_url: https://github.com/MadisonWirtanen/links
+# 交换链接的 URL
+# link_exchange_url: https://github.com/MadisonWirtanen/links/issues
+# Google Analytics Code（可选）
+# ga_tracking_code_id: G-ABCDEFG
+
+################
+## 链接
+################
+categories:
+  - category: Star
+    icon: fa-solid fa-star
+    links:
+      - title: ykwangの博客
+        logo: https://cdn.jsdelivr.net/gh/MadisonWirtanen/image-hosting-web-site@main/favicon.ico
+        url: https://blog.ykwang.top/
+        description: 我的博客, 欢迎留言
+      - title: ykwangの主页
+        logo: https://cdn.jsdelivr.net/gh/MadisonWirtanen/image-hosting-web-site@main/homepage.png
+        url: https://www.ykwang.top/
+        description: 我的主页, 欢迎访问
+
+  - category: Links
+    hide_menu: true
+    icon: fa-solid fa-star
+    links:
+      - title: ykwangの监测站
+        logo: https://crowded-coffee-wombat.faviconkit.com/monitor.ykwang.top
+        url: https://monitor.ykwang.top/
+        description: 监测网站状态, 图标为绿则均正常, 为红则有故障
+      - title: Email
+        logo: https://cdn.jsdelivr.net/gh/MadisonWirtanen/image-hosting-web-site@main/mailicon.png
+        url: mailto:email@ykwang.top
+        description: 点击即可通过邮件联系我
+
+  - category: Proxy
+    hide_menu: true
+    icon: fa-solid fa-star
+    links:
+      - title: Vercel代理
+        logo: https://vercel.com/favicon.ico
+        url: https://www.proxies.dynv6.net/URL
+        description: 将目标网址去掉前缀替换此链接中的URL, 如替换URL为github.com以访问https://github.com
+      - title: Cloudflare代理
+        logo: https://www.cloudflare.com/favicon.ico
+        url: https://proxy.ykwang.top/
+        description: 输入目标网址即可访问, 对Wikipedia等站有优化, 其中Google不定时受限
+
+  - category: ChatGPT
+    icon: fa-solid fa-graduation-cap
+    links:
+      - title: ChatGPT-Next-Web
+        logo: https://cdn.jsdelivr.net/gh/Yidadaa/ChatGPT-Next-Web/docs/images/icon.svg
+        url: https://gpt.ykwang.top/
+        description: 调用API Key的ChatGPT网页应用, 部署于Vercel
+      - title: Ask2End
+        logo: https://cdn.jsdelivr.net/gh/lvwzhen/Ask2End@main/public/favicon.ico
+        url: https://ask.ykwang.top/
+        description: 打破砂锅问到底, 部署于Vercel
+      - title: Pandora
+        logo: https://cdn.jsdelivr.net/gh/pengzhile/pandora-cloud@master/src/pandora_cloud/flask/static/apple-touch-icon.png
+        url: https://pandora.ykwang.dynv6.net/
+        description: ChatGPT镜像站, 如遇需要登陆可联系我更新Token, 部署于Vercel
+      - title: NewBing
+        logo: https://cdn.jsdelivr.net/gh/adams549659584/go-proxy-bingai/web/favicon.ico
+        url: https://newbing.ykwang.dynv6.net/
+        description: NewBing镜像站, 部署于Vercel
+
+  - category: Local
+    icon: fa-solid fa-laptop
+    links:
+      - title: Alist
+        logo: https://cdn.jsdelivr.net/gh/alist-org/logo@main/logo.svg
+        url: https://alist.ykwang.dynv6.net/
+        description: 个人影音库, 存储于阿里云盘, 部署于Koyeb
+      - title: Alist Local
+        logo: https://cdn.jsdelivr.net/gh/alist-org/logo@main/logo.svg
+        url: https://alist.ykwang.top/
+        description: 含未过审内容的个人影音库, 部署于本地, Cloudflare代理
+      - title: Reader
+        logo: https://cdn.jsdelivr.net/gh/hectorqin/reader/web/public/img/icons/apple-touch-icon.png
+        url: https://reader.ykwang.top/
+        description: 开源小说/网文阅读, 注册邀请码666666, 部署于本地, Cloudflare代理
+      - title: SPlayer
+        logo: https://cdn.jsdelivr.net/gh/imsyy/SPlayer@dev/public/favicon.ico
+        url: https://music.ykwang.top/
+        description: 网易云音乐解灰, 部署于Zeabur
+
+  - category: Others
+    icon: fa-solid fa-screwdriver-wrench
+    links:
+      - title: 加密通信
+        logo: https://cdn.jsdelivr.net/gh/shadowdreamer/waibibabu/public/favicon.ico
+        url: https://waibibabu.ykwang.dynv6.net/
+        description: 将文字与歪比吧卜/阿巴阿巴互相转换实现加密通信, 部署于Zeabur
+      - title: 羊了个羊
+        logo: https://cdn.jsdelivr.net/gh/MadisonWirtanen/yanglegeyang/public/logo.png
+        url: https://yanglegeyang.ykwang.dynv6.net/
+        description: 纯前端实现的羊了个羊系列小游戏, 部署于Vercel
+      - title: 吃掉小鹿乃
+        logo: https://cdn.jsdelivr.net/gh/MadisonWirtanen/EatKano@main/static/image/ClickBefore.png
+        url: https://madisonwirtanen.github.io/EatKano/
+        description: 新概念音游, 部署于GitHub Pages
+      - title: AntiOCR
+        logo: https://cdn.jsdelivr.net/gh/MadisonWirtanen/image-hosting-web-site@main/link.png
+        url: https://madisonwirtanen.github.io/AntiOCR/
+        description: 在图片上随机画点线以干扰文字识别通过公众号审核, 部署于GitHub Pages
+      - title: 图种制作
+        logo: https://cdn.jsdelivr.net/gh/MadisonWirtanen/image-hosting-web-site@main/link.png
+        url: https://madisonwirtanen.github.io/js-seed-map/
+        description: 图种制作工具, 将压缩包与图片合成一张新图片, 部署于GitHub Pages
+      - title: 114514论证器
+        logo: https://cdn.jsdelivr.net/gh/MadisonWirtanen/image-hosting-web-site@main/link.png
+        url: https://madisonwirtanen.github.io/homo/
+        description: 一个将任意数字分解成 114514 构成的公式的工具, 部署于GitHub Pages
