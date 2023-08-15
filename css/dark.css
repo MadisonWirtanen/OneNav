@@ -3,9 +3,20 @@ body.night a {
     color: #d8d8d8 !important;
 }
 
+body.night::before {
+    content: "";
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.66); /* 透明度为0.66的黑色 */
+    z-index: 0;
+}
+
 body.night {
     background-color: #232323 !important;
-    background-image: url(https://img.imsyy.top/bg/dark/leaves-pattern-dark.png) !important;
+    background-image: url(https://res.abeim.cn/api-bing_img?export=img&idx=sj) !important;
     transition: 0.3s;
 }
 
@@ -75,7 +86,7 @@ body.night .tpwthwidt .baseText_31obwQ4 {
 }
 
 body.night footer.main-footer {
-    background-color: #464646a6;
+    background-color: #464646dd;
 }
 
 body.night .footer-text a {
@@ -145,7 +156,7 @@ body.night .go-up a:hover {
 
 /*左侧导航栏*/
 .night .sidebar-menu {
-    background: #464646a6;
+    background: #464646dd;
 }
 
 .night .sidebar-menu .main-menu a:hover {
@@ -158,7 +169,7 @@ body.night .go-up a:hover {
 
 /*顶部导航栏*/
 .night .user-info-navbar {
-    background-color: #464646a6 !important;
+    background-color: #464646dd !important;
 }
 
 .night .menu-item {
@@ -245,7 +256,7 @@ body.night .search-engine-list li {
 
 /*独立页面*/
 .night .panel-body {
-    background: #464646a6;
+    background: #464646dd;
     color: #d8d8d8;
 }
 
