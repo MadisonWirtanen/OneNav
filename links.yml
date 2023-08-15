@@ -7,7 +7,7 @@ user_name: ykwang
 # 网站名称
 site_name: OneNav
 # 网站Favicon
-shortcut_icon: https://cdn.jsdelivr.net/gh/MadisonWirtanen/image-hosting-web-site@main/sq.png
+shortcut_icon: ./favicon.ico
 # 网站LOGO
 # CSS参考 https://lf26-cdn-tos.bytecdntp.com/cdn/expire-1-y/font-awesome/6.0.0/css/all.min.css
 # 样式可参考 https://www.xicons.org/ 中的 fa 下对应图标
