@@ -33,12 +33,13 @@ body {
     background-attachment: fixed;
     transition: 0.3s;
     font-family: 'HarmonyOS_Regular', sans-serif !important;
+    opacity: 0.88;
 }
 
 .col-sm-3 {
     width: 25% !important;
     float: left !important;
-    opacity: 0.86;
+
 }
 
 /*Logo*/
@@ -275,7 +276,6 @@ body {
 #search {
     max-width: 700px;
     margin: 60px auto 20px;
-    opacity: 0.86;
 }
 
 #search form {
