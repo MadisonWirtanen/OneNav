@@ -176,10 +176,6 @@ categories:
         logo: https://crowded-coffee-wombat.faviconkit.com/unsplash.com/64
         url: https://unsplash.com/
         description: 免版权的精美图片网站
-      - title: Xicons
-        logo: https://crowded-coffee-wombat.faviconkit.com/www.xicons.org/64
-        url: https://www.xicons.org/
-        description: 免费的矢量图标库
       - title: Flaticon
         logo: https://crowded-coffee-wombat.faviconkit.com/www.flaticon.com/64
         url: https://www.flaticon.com/
@@ -192,6 +188,10 @@ categories:
         logo: https://crowded-coffee-wombat.faviconkit.com/colorhunt.co/64
         url: https://colorhunt.co/
         description: 为设计和艺术项目获取色彩灵感
+      - title: TinyPNG
+        logo: https://crowded-coffee-wombat.faviconkit.com/tinify.cn/64
+        url: https://tinify.cn/
+        description: 智能压缩Webp、JPEG和PNG图片
 
   - category: 影音游戏
     icon: fa-brands fa-youtube
@@ -222,13 +222,13 @@ categories:
         url: https://www.flysheep6.com/
         description: 游戏合集存档
 
-  - category: 趣味项目
+  - category: 摸鱼娱乐
     icon: fa-solid fa-gamepad
     links:
-      - title: 加密通信
-        logo: https://cdn.jsdelivr.net/gh/shadowdreamer/waibibabu/public/favicon.ico
-        url: https://waibibabu.ykwang.dynv6.net/
-        description: 将文字与歪比吧卜/阿巴阿巴互相转换实现加密通信, 部署于Zeabur
+      - title: Life Restart
+        logo: https://crowded-coffee-wombat.faviconkit.com/liferestart.syaro.io/public/64
+        url: https://liferestart.syaro.io/public/
+        description: 风靡一时的人生重开模拟器
       - title: 羊了个羊
         logo: https://cdn.jsdelivr.net/gh/MadisonWirtanen/yanglegeyang/public/logo.png
         url: https://yanglegeyang.ykwang.dynv6.net/
@@ -249,3 +249,15 @@ categories:
         logo: https://cdn.jsdelivr.net/gh/MadisonWirtanen/image-hosting-web-site@main/link.png
         url: https://madisonwirtanen.github.io/homo/
         description: 一个将任意数字分解成 114514 构成的公式的工具, 部署于GitHub Pages
+      - title: 加密通信
+        logo: https://cdn.jsdelivr.net/gh/shadowdreamer/waibibabu/public/favicon.ico
+        url: https://waibibabu.ykwang.dynv6.net/
+        description: 将文字与歪比吧卜/阿巴阿巴互相转换实现加密通信, 部署于Zeabur
+      - title: FakeUpdate
+        logo: https://crowded-coffee-wombat.faviconkit.com/fakeupdate.net/64
+        url: https://fakeupdate.net/
+        description: 假装Windows升级界面
+      - title: 这里有猫
+        logo: https://crowded-coffee-wombat.faviconkit.com/m.niucodata.com/cat/64
+        url: https://m.niucodata.com/cat/
+        description: 听猫打呼噜
