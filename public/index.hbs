@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="author" content="ykwang" />
-    <title>{{user_name}}の{{site_name}}</title>
+    <title>{{title}}の导航页</title>
     {{#if keywords}}
     <meta name="keywords" content="{{keywords}}">
     {{/if}}
@@ -40,7 +40,7 @@
     {{#if url}}
     <meta property="og:url" content="{{url}}">
     {{/if}}
-    <meta property="og:title" content="{{user_name}}{{#if site_name}} - {{site_name}}{{/if}}">
+    <meta property="og:title" content="{{title}}{{#if site_name}} - {{site_name}}{{/if}}">
     {{#if description}}
     <meta property="og:description" content="{{description}}">
     {{/if}}
@@ -50,7 +50,7 @@
     <meta property="og:site_name" content="{{#if site_name}}{{site_name}}{{else}}{{title}}{{/if}}">
     <!-- Twitter Cards -->
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="{{user_name}}{{#if site_name}} - {{site_name}}{{/if}}">
+    <meta name="twitter:title" content="{{title}}{{#if site_name}} - {{site_name}}{{/if}}">
     {{#if description}}
     <meta name="twitter:description" content="{{description}}">
     {{/if}}
@@ -66,15 +66,15 @@
 <body class="page-body">
     <!--页面内容-->
     <div class="page-container">
-        <!--顶侧部栏LOGO标题及菜单-->
+        <!--顶侧部栏图标及菜单-->
         <div class="sidebar-menu toggle-others fixed">
             <div class="sidebar-menu-inner">
-                <!--LOGO标题-->
+                <!--图标-->
                 <header class="logo-env">
                     <div class="logo">
-                        <a rel="go-top"><i class="{{logo}}"></i></a>
+                        <a rel="go-top"><i class="fa-solid fa-compass"></i></a>
                         <div class="logo-text">
-                            <a rel="go-top">{{site_name}}</a>
+                            <a rel="go-top">OneNav</a>
                         </div>
                     </div>
                     <div class="mobile-menu-toggle visible-xs">
@@ -135,9 +135,9 @@
                 </ul>
             </div>
         </div>
-        <!--主体部分-->
+        <!--主体-->
         <div class="main-content">
-            <!--顶部栏链接-->
+            <!--顶部链接-->
             <nav class="navbar user-info-navbar" id="navbar" role="navigation">
                 <ul class="user-info-menu left-links list-inline list-unstyled">
                     {{#if home_url}}
@@ -339,7 +339,7 @@
                     "||function|target|document|value|return|type|querySelector|checked||||||||||||||||||||||||||var|input|name|search|addEventListener|window|parentNode|action|localStorage|classList|newWindow|focus|superSearch|current|placeholder|length|for|change|querySelectorAll|setItem|new|open|add|getAttribute|Date|getItem|href|void|preventDefault|text|location|data|blank|removeAttribute|set|super|fm|_blank|group|remove|submit|setAttribute"
                     .split("|"), 0, {}));
             </script>
-            <!--网址链接-->
+            <!--主体链接-->
             {{#*inline "tagPartial"}}
             <!-- {{category}} -->
             <h4 class="text-gray"><i class="fa-solid fa-tags" style="margin-right: 7px;" id="{{category}}"></i>{{category}}</h4>
@@ -409,17 +409,15 @@
                 <div class="footer-inner">
                 <!-- Add your copyright text here -->
                     <p>
-                        &copy; 2020 - 2023
-                        <a href="https://www.ykwang.top" target="_blank"><strong>ykwang</strong></a>
-                          | Design by 
-                        <a href="https://www.viggoz.com" target="_blank"><strong>Viggo</strong></a>
-                          | Powered by 
-                        <a href="https://github.com/geneasy/geneasy" target="_blank"><strong>GenEasy</strong></a>
-                         & 
-                        <a href="https://github.com/imsyy/OneNav" target="_blank"><strong>OneNav</strong></a>
-                         & 
-                        <a href="https://github.com/WebStackPage/WebStackPage.github.io" target="_blank"><strong>WebStackPage</strong></a>
+                
+                        &copy; 2020 - 2022
+                        <a href="https://www.ykwang.top" target="_blank"><strong>ykwang</strong></a> | Design by <a href="https://www.viggoz.com" target="_blank"><strong>Viggo</strong></a> | Power by <a href="https://github.com/geneasy/geneasy" target="_blank"><strong>GenEasy</strong></a> & <a href="https://github.com/HCLonely/hexo-theme-webstack/" target="_blank"><strong>hexo-theme-webstack</strong></a>
                     </p>
+                    <!-- <div class="go-up">
+                        <a href="#" rel="go-top">
+                            <i class="fas fa-angle-up"></i>
+                        </a>
+                    </div> -->
                 </div>
             </footer>
         </div>
