@@ -2,7 +2,7 @@
 ################
 ## 页面配置
 ################
-# 作者标题
+# 作者名称
 user_name: ykwang
 # 网站名称
 site_name: OneNav
@@ -20,14 +20,14 @@ logo: fa-solid fa-compass
 keywords: 导航页, 导航, OneNav, GenEasy, Github, Github Pages
 # 网站描述
 description: 个人网址集
-# 主页
+# 个人主页
 home_url: https://www.ykwang.top/
-# 邮箱
+# 个人邮箱
 email: email@ykwang.top
-# GitHub
+# GitHub链接
 github_url: https://github.com/MadisonWirtanen
 ################
-## 链接
+## 网址链接
 ################
 categories:
   - category: Star Links
