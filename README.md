@@ -36,7 +36,7 @@
 
 ## 使用Vercel发布网页
 
-1. Vercel默认对主分支进行部署, 而要部署的html文档在gh-pages分支, 因此可以在`Settings -> General -> Default branches`中点`switch`将gh-pages设置为主分支, 然后再进行Vercel部署, 部署成功后再切换回原来的主分支不会影响Vercel之后的部署. 需注意上述`gitpod.sh`脚本将`public`文件夹中编译后的`index.html`复制到了根目录替换了原来的`index.html`, 所以如果使用了此脚本, 那无需切换分支也可成功部署;
+1. Vercel默认对主分支进行部署, 而要部署的html文档在gh-pages分支, 因此可以在`Settings -> General -> Default branches`中点`switch`将gh-pages设置为主分支, 然后再进行Vercel部署, 部署成功后再切换回原来的主分支不会影响Vercel之后的部署. 需注意上述`gitpod.sh`脚本是将html文档输出到了主分支根目录, 所以如果使用了此脚本, 则无需切换分支也可成功部署;
 
 2. 使用GitHub账户[注册登录Vercel](https://vercel.com/dashboard)后点击`Add New -> project`并选择fork的仓库直接点击`Deploy`即可;
 
