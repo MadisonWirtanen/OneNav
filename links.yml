@@ -88,10 +88,6 @@ categories:
         description: NewBing镜像站, 部署于Vercel
       - title: Alist
         logo: https://cdn.jsdelivr.net/gh/alist-org/logo@main/logo.svg
-        url: https://alist.ykwang.dynv6.net/
-        description: 个人影音库, 存储于阿里云盘, 部署于Koyeb
-      - title: Alist Local
-        logo: https://cdn.jsdelivr.net/gh/alist-org/logo@main/logo.svg
         url: https://alist.ykwang.top/
         description: 含未过审内容的个人影音库, 部署于本地, Cloudflare代理
       - title: Reader
@@ -125,7 +121,7 @@ categories:
         url: https://xmsoushu.com/#/
         description: 一站式读书学习导航站
       - title: Sci-Hub
-        logo: https://crowded-coffee-wombat.faviconkit.com/www.jiumodiary.com/64
+        logo: https://crowded-coffee-wombat.faviconkit.com/sci-hub.ru/64
         url: https://sci-hub.ru/
         description: 书籍论文下载 将知识带给每个人
       - title: arXiv
