@@ -160,6 +160,10 @@ categories:
         logo: https://crowded-coffee-wombat.faviconkit.com/res.abeim.cn/api/64
         url: https://res.abeim.cn/api/
         description: 免费稳定的API接口
+      - title: 教书先生API
+        logo: https://crowded-coffee-wombat.faviconkit.com/api.oioweb.cn/64
+        url: https://api.oioweb.cn/
+        description: 提供免费接口调用平台
 
   - category: 设计素材
     icon: fa-solid fa-marker
