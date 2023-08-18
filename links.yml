@@ -108,10 +108,13 @@ categories:
         description: Zlibrary起始页面, 可以登录/创建账号并转到专属链接
         tags: 被墙
       - title: Library Genesis
-        logo: https://crowded-coffee-wombat.faviconkit.com/libgen.li/16
+        logo: https://crowded-coffee-wombat.faviconkit.com/libgen.li/32
         url: https://libgen.li/
         description: Library Genesis 创世纪图书馆
-        tags: 被墙
+      - title: Wikipedia
+        logo: https://crowded-coffee-wombat.faviconkit.com/wikipedia.org/64
+        url: https://wiki.ykwang.top/
+        description: 维基百科镜像站
       - title: 鸠摩搜索
         logo: https://crowded-coffee-wombat.faviconkit.com/www.jiumodiary.com/64
         url: https://www.jiumodiary.com/
@@ -121,7 +124,7 @@ categories:
         url: https://xmsoushu.com/#/
         description: 一站式读书学习导航站
       - title: Sci-Hub
-        logo: https://crowded-coffee-wombat.faviconkit.com/sci-hub.ru/64
+        logo: https://sci-hub.ru/pictures/ravenround_hs.gif
         url: https://sci-hub.ru/
         description: 书籍论文下载 将知识带给每个人
       - title: arXiv
