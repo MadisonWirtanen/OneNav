@@ -89,7 +89,7 @@ categories:
       - title: Alist
         logo: https://cdn.jsdelivr.net/gh/alist-org/logo@main/logo.svg
         url: https://alist.ykwang.top/
-        description: 含未过审内容的个人影音库, 部署于本地, Cloudflare代理
+        description: 个人影音库, 部署于本地, Cloudflare代理
       - title: Reader
         logo: https://cdn.jsdelivr.net/gh/hectorqin/reader/web/public/img/icons/apple-touch-icon.png
         url: https://reader.ykwang.top/
@@ -102,10 +102,10 @@ categories:
   - category: 学术资源
     icon: fa-solid fa-graduation-cap
     links:
-      - title: Z-library Official
+      - title: Z-library
         logo: https://crowded-coffee-wombat.faviconkit.com/singlelogin.re/64
         url: https://singlelogin.re/
-        description: Zlibrary起始页面, 可以登录/创建账号并转到专属链接
+        description: Zlibrary 影子图书馆起始页面
         tags: 被墙
       - title: Library Genesis
         logo: https://crowded-coffee-wombat.faviconkit.com/libgen.li/32
@@ -139,10 +139,6 @@ categories:
         logo: https://crowded-coffee-wombat.faviconkit.com/tools.liumingye.cn/64
         url: https://tools.liumingye.cn/
         description: 刘明野的工具箱提供好用、易用的工具
-      - title: 神奇海螺试验场
-        logo: https://crowded-coffee-wombat.faviconkit.com/lab.magiconch.com/64
-        url: https://lab.magiconch.com/
-        description: 有很多有趣的项目, 梗图生成器、在线鉴黄工具等
       - title: 在线工具
         logo: https://crowded-coffee-wombat.faviconkit.com/tool.lu/64
         url: https://tool.lu/
@@ -151,6 +147,10 @@ categories:
         logo: https://crowded-coffee-wombat.faviconkit.com/www.alltoall.net/64
         url: https://www.alltoall.net/
         description: 在线格式转换网站
+      - title: 临时邮箱
+        logo: https://crowded-coffee-wombat.faviconkit.com/mail.cx/64
+        url: https://mail.cx/zh/
+        description: 一次性临时电子邮件服务
       - title: SMS-Activate
         logo: https://crowded-coffee-wombat.faviconkit.com/sms-activate.org/64
         url: https://sms-activate.org/
@@ -244,6 +244,10 @@ categories:
         logo: https://cdn.jsdelivr.net/gh/MadisonWirtanen/EatKano@main/static/image/ClickBefore.png
         url: https://madisonwirtanen.github.io/EatKano/
         description: 新概念音游, 部署于GitHub Pages
+      - title: 神奇海螺试验场
+        logo: https://crowded-coffee-wombat.faviconkit.com/lab.magiconch.com/64
+        url: https://lab.magiconch.com/
+        description: 有很多有趣的项目, 梗图生成器、在线鉴黄工具等
       - title: AntiOCR
         logo: https://cdn.jsdelivr.net/gh/MadisonWirtanen/image-hosting-web-site@main/link.png
         url: https://madisonwirtanen.github.io/AntiOCR/
