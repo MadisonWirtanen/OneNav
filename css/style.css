@@ -29,8 +29,9 @@ body {
     height: 100%;
     font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji" !important;
     background-color: #f2f2f2 !important;
-    background-image: url(https://res.abeim.cn/api-bing_img?export=img&idx=sj);
+    background-image: url(https://api.axtn.net/api/bing.php);
     background-attachment: fixed;
+    background-size: cover;     /*背景图片拉伸以铺满全屏*/
     transition: 0.3s;
     font-family: 'HarmonyOS_Regular', sans-serif !important;
     opacity: 0.88;
