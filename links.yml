@@ -239,7 +239,7 @@ categories:
       - title: 羊了个羊
         logo: https://cdn.jsdelivr.net/gh/MadisonWirtanen/yanglegeyang/public/logo.png
         url: https://yanglegeyang.ykwang.dynv6.net/
-        description: 纯前端实现的羊了个羊系列小游戏, 部署于Vercel
+        description: 低配版羊了个羊系列小游戏, 部署于Vercel
       - title: 吃掉小鹿乃
         logo: https://cdn.jsdelivr.net/gh/MadisonWirtanen/EatKano@main/static/image/ClickBefore.png
         url: https://madisonwirtanen.github.io/EatKano/
@@ -260,10 +260,6 @@ categories:
         logo: https://cdn.jsdelivr.net/gh/MadisonWirtanen/image-hosting-web-site@main/link.png
         url: https://madisonwirtanen.github.io/homo/
         description: 一个将任意数字分解成 114514 构成的公式的工具, 部署于GitHub Pages
-      - title: 加密通信
-        logo: https://cdn.jsdelivr.net/gh/shadowdreamer/waibibabu/public/favicon.ico
-        url: https://waibibabu.ykwang.dynv6.net/
-        description: 将文字与歪比吧卜/阿巴阿巴互相转换实现加密通信, 部署于Zeabur
       - title: FakeUpdate
         logo: https://crowded-coffee-wombat.faviconkit.com/fakeupdate.net/64
         url: https://fakeupdate.net/
