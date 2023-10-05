@@ -79,7 +79,7 @@ categories:
         url: https://ask.ykwang.top/
         description: 打破砂锅问到底, 部署于Vercel
       - title: Pandora
-        logo: https://cdn.jsdelivr.net/gh/pengzhile/pandora-cloud@master/src/pandora_cloud/flask/static/apple-touch-icon.png
+        logo: https://crowded-coffee-wombat.faviconkit.com/pandora.ykwang.dynv6.net/64
         url: https://pandora.ykwang.dynv6.net/
         description: ChatGPT镜像站, 如遇需要登陆可联系我更新Token, 部署于Vercel
       - title: NewBing
@@ -92,7 +92,7 @@ categories:
         description: 个人影音库, 部署于本地, Cloudflare代理
       - title: Reader
         logo: https://cdn.jsdelivr.net/gh/hectorqin/reader/web/public/img/icons/apple-touch-icon.png
-        url: https://reader.ykwang.top/
+        url: https://reader3.ykwang.top/
         description: 开源小说/网文阅读, 注册邀请码666666, 部署于本地, Cloudflare代理
       - title: SPlayer
         logo: https://cdn.jsdelivr.net/gh/imsyy/SPlayer@dev/public/favicon.ico
