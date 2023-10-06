@@ -34,19 +34,19 @@ categories:
     icon: fa-solid fa-star
     links:
       - title: ykwangの主页
-        logo: https://cdn.jsdelivr.net/gh/MadisonWirtanen/OneNav@master/images/svg/Home.svg
+        logo: https://gh.ykwang.top/icon/svg/Home.svg
         url: https://www.ykwang.top/
         description: 我的主页, 欢迎访问
       - title: ykwangの博客
-        logo: https://cdn.jsdelivr.net/gh/MadisonWirtanen/OneNav@master/images/svg/Blog.svg
+        logo: https://gh.ykwang.top/icon/svg/Blog.svg
         url: https://blog.ykwang.top/
         description: 我的博客, 欢迎留言
       - title: ykwangの监测站
-        logo: https://cdn.jsdelivr.net/gh/MadisonWirtanen/OneNav@master/images/svg/CheckCircle.svg
+        logo: https://gh.ykwang.top/icon/svg/CheckCircle.svg
         url: https://monitor.ykwang.top/
         description: 监测网站运行状态
       - title: Email
-        logo: https://cdn.jsdelivr.net/gh/MadisonWirtanen/OneNav@master/images/svg/Envelope.svg
+        logo: https://gh.ykwang.top/icon/svg/Envelope.svg
         url: mailto:email@ykwang.top
         description: 点击即可通过邮件联系我
 
@@ -71,11 +71,11 @@ categories:
     icon: fa-solid fa-laptop
     links:
       - title: ChatGPT-Next-Web
-        logo: https://cdn.jsdelivr.net/gh/Yidadaa/ChatGPT-Next-Web/docs/images/icon.svg
+        logo: https://crowded-coffee-wombat.faviconkit.com/gpt.ykwang.top/64
         url: https://gpt.ykwang.top/
         description: 调用API Key的ChatGPT网页应用, 部署于Vercel
       - title: Ask2End
-        logo: https://cdn.jsdelivr.net/gh/lvwzhen/Ask2End@main/public/favicon.ico
+        logo: https://crowded-coffee-wombat.faviconkit.com/ask.ykwang.top/64
         url: https://ask.ykwang.top/
         description: 打破砂锅问到底, 部署于Vercel
       - title: Pandora
@@ -83,19 +83,19 @@ categories:
         url: https://pandora.ykwang.dynv6.net/
         description: ChatGPT镜像站, 如遇需要登陆可联系我更新Token, 部署于Vercel
       - title: NewBing
-        logo: https://cdn.jsdelivr.net/gh/adams549659584/go-proxy-bingai/web/favicon.ico
+        logo: https://crowded-coffee-wombat.faviconkit.com/newbing.ykwang.dynv6.net/64
         url: https://newbing.ykwang.dynv6.net/
         description: NewBing镜像站, 部署于Vercel
       - title: Alist
-        logo: https://cdn.jsdelivr.net/gh/alist-org/logo@main/logo.svg
+        logo: https://crowded-coffee-wombat.faviconkit.com/alist.ykwang.top/64
         url: https://alist.ykwang.top/
         description: 个人影音库, 部署于本地, Cloudflare代理
       - title: Reader
-        logo: https://cdn.jsdelivr.net/gh/hectorqin/reader/web/public/img/icons/apple-touch-icon.png
+        logo: https://crowded-coffee-wombat.faviconkit.com/reader3.ykwang.top/64
         url: https://reader3.ykwang.top/
         description: 开源小说/网文阅读, 注册邀请码666666, 部署于本地, Cloudflare代理
       - title: SPlayer
-        logo: https://cdn.jsdelivr.net/gh/imsyy/SPlayer@dev/public/favicon.ico
+        logo: https://crowded-coffee-wombat.faviconkit.com/music.ykwang.top/64
         url: https://music.ykwang.top/
         description: 网易云音乐解灰, 部署于Zeabur
 
@@ -237,11 +237,11 @@ categories:
         url: https://liferestart.syaro.io/public/
         description: 风靡一时的人生重开模拟器
       - title: 羊了个羊
-        logo: https://cdn.jsdelivr.net/gh/MadisonWirtanen/yanglegeyang/public/logo.png
+        logo: https://crowded-coffee-wombat.faviconkit.com/yanglegeyang.ykwang.dynv6.net/64
         url: https://yanglegeyang.ykwang.dynv6.net/
         description: 低配版羊了个羊系列小游戏, 部署于Vercel
       - title: 吃掉小鹿乃
-        logo: https://cdn.jsdelivr.net/gh/MadisonWirtanen/EatKano@main/static/image/ClickBefore.png
+        logo: https://crowded-coffee-wombat.faviconkit.com/madisonwirtanen.github.io/EatKano/64
         url: https://madisonwirtanen.github.io/EatKano/
         description: 新概念音游, 部署于GitHub Pages
       - title: 神奇海螺试验场
