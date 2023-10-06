@@ -79,7 +79,7 @@ categories:
         url: https://ask.ykwang.top/
         description: 打破砂锅问到底, 部署于Vercel
       - title: Pandora
-        logo: https://crowded-coffee-wombat.faviconkit.com/pandora.ykwang.dynv6.net/64
+        logo: https://crowded-coffee-wombat.faviconkit.com/pandora.ykwang.dynv6.net
         url: https://pandora.ykwang.dynv6.net/
         description: ChatGPT镜像站, 如遇需要登陆可联系我更新Token, 部署于Vercel
       - title: NewBing
