@@ -79,13 +79,13 @@ categories:
         url: https://ask.ykwang.top/
         description: 打破砂锅问到底, 部署于Vercel
       - title: Pandora
-        logo: https://crowded-coffee-wombat.faviconkit.com/pandora.ykwang.dynv6.net/64
-        url: https://pandora.ykwang.dynv6.net/
+        logo: https://crowded-coffee-wombat.faviconkit.com/pandora.ykwang.top/64
+        url: https://pandora.ykwang.top/
         description: ChatGPT镜像站, 如遇需要登陆可联系我更新Token, 部署于Vercel
-      - title: NewBing
-        logo: https://crowded-coffee-wombat.faviconkit.com/newbing.ykwang.dynv6.net/64
-        url: https://newbing.ykwang.dynv6.net/
-        description: NewBing镜像站, 部署于Vercel
+      - title: BingAI
+        logo: https://crowded-coffee-wombat.faviconkit.com/bing.ykwang.top/64
+        url: https://bing.ykwang.top/
+        description: NewBing镜像站, 部署于Cloudflare Workers
       - title: Alist
         logo: https://crowded-coffee-wombat.faviconkit.com/alist.ykwang.top/64
         url: https://alist.ykwang.top/
@@ -232,6 +232,10 @@ categories:
   - category: 摸鱼娱乐
     icon: fa-solid fa-gamepad
     links:
+      - title: 神奇海螺试验场
+        logo: https://crowded-coffee-wombat.faviconkit.com/lab.magiconch.com/64
+        url: https://lab.magiconch.com/
+        description: 有很多有趣的项目, 梗图生成器、在线鉴黄工具等
       - title: Life Restart
         logo: https://crowded-coffee-wombat.faviconkit.com/liferestart.syaro.io/public/64
         url: https://liferestart.syaro.io/public/
@@ -241,13 +245,9 @@ categories:
         url: https://yanglegeyang.ykwang.dynv6.net/
         description: 低配版羊了个羊系列小游戏, 部署于Vercel
       - title: 吃掉小鹿乃
-        logo: https://crowded-coffee-wombat.faviconkit.com/madisonwirtanen.github.io/EatKano/64
+        logo: https://cdn.jsdelivr.net/gh/MadisonWirtanen/image-hosting-web-site@main/link.png
         url: https://madisonwirtanen.github.io/EatKano/
         description: 新概念音游, 部署于GitHub Pages
-      - title: 神奇海螺试验场
-        logo: https://crowded-coffee-wombat.faviconkit.com/lab.magiconch.com/64
-        url: https://lab.magiconch.com/
-        description: 有很多有趣的项目, 梗图生成器、在线鉴黄工具等
       - title: AntiOCR
         logo: https://cdn.jsdelivr.net/gh/MadisonWirtanen/image-hosting-web-site@main/link.png
         url: https://madisonwirtanen.github.io/AntiOCR/
