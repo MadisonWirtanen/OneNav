@@ -41,7 +41,7 @@ body {
     background-color: #f2f2f2 !important;
     background-image: url(https://res.abeim.cn/api-bing_img?export=img&idx=0);
     background-attachment: fixed !important;
-    background-size: cover !important;     /*背景图片拉伸以铺满全屏*/
+    background-size: auto !important;     /*背景图片大小, 原为cover*/
     transition: 0.3s;
     font-family: 'HarmonyOS_Regular', sans-serif !important;
     opacity: 0.88;
