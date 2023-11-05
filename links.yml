@@ -92,12 +92,12 @@ categories:
         description: 个人影音库, 部署于本地, Cloudflare代理
       - title: Reader
         logo: https://crowded-coffee-wombat.faviconkit.com/reader3.ykwang.top/64
-        url: https://reader3.ykwang.top/
+        url: https://reader.ykwang.top/
         description: 开源小说/网文阅读, 注册邀请码666666, 部署于本地, Cloudflare代理
       - title: SPlayer
         logo: https://crowded-coffee-wombat.faviconkit.com/music.ykwang.top/64
         url: https://music.ykwang.top/
-        description: 网易云音乐解灰, 部署于Zeabur
+        description: 网易云音乐解灰, 部署于Koyeb
 
   - category: 学术资源
     icon: fa-solid fa-graduation-cap
