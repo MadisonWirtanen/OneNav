@@ -83,8 +83,8 @@ categories:
         url: https://pandora.ykwang.top/
         description: ChatGPT镜像站, 如遇需要登陆可联系我更新Token, 部署于Vercel
       - title: BingAI
-        logo: https://crowded-coffee-wombat.faviconkit.com/bing.ykwang.top/64
-        url: https://bing.ykwang.top/
+        logo: https://crowded-coffee-wombat.faviconkit.com/bingai.ykwang.top/64
+        url: https://bingai.ykwang.top/
         description: NewBing镜像站, 部署于Cloudflare Workers
       - title: Alist
         logo: https://crowded-coffee-wombat.faviconkit.com/alist.ykwang.top/64
