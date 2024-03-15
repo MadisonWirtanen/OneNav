@@ -99,32 +99,32 @@ categories:
     icon: fa-solid fa-graduation-cap
     links:
       - title: Z-library
-        logo: https://besticon-demo.herokuapp.com/icon?url=singlelogin.re&size=32..32..120
+        logo: https://www.proxies.dynv6.net/singlelogin.re/favicon.ico
         url: https://singlelogin.re/
         description: Zlibrary 影子图书馆起始页面
         tags: 被墙
       - title: Library Genesis
-        logo: https://besticon-demo.herokuapp.com/icon?url=libgen.li&size=32..32..120
+        logo: https://www.proxies.dynv6.net/libgen.li/favicon.ico
         url: https://libgen.li/
         description: Library Genesis 创世纪图书馆
       - title: Wikipedia
-        logo: https://besticon-demo.herokuapp.com/icon?url=wikipedia.org&size=32..32..120
-        url: https://wiki.imkk.uk/
+        logo: https://www.proxies.dynv6.net/www.wikipedia.org/favicon.ico
+        url: https://wikipedia.imkk.uk/
         description: 维基百科镜像站
       - title: 鸠摩搜索
-        logo: https://besticon-demo.herokuapp.com/icon?url=www.jiumodiary.com&size=32..32..120
+        logo: https://www.jiumodiary.com/images/favicon.png
         url: https://www.jiumodiary.com/
         description: 文档搜索引擎
       - title: 熊猫搜书
-        logo: https://besticon-demo.herokuapp.com/icon?url=xmsoushu.com&size=32..32..120
-        url: https://xmsoushu.com/#/
+        logo: https://xmsoushu.com/favicon.ico
+        url: https://xmsoushu.com/
         description: 一站式读书学习导航站
       - title: Sci-Hub
         logo: https://sci-hub.ru/pictures/ravenround_hs.gif
         url: https://sci-hub.ru/
         description: 书籍论文下载 将知识带给每个人
       - title: arXiv
-        logo: https://besticon-demo.herokuapp.com/icon?url=arxiv.org&size=32..32..120
+        logo: https://www.proxies.dynv6.net/arxiv.org/static/browse/0.3.4/images/icons/favicon-32x32.png
         url: https://arxiv.org/
         description: 论文预印本收集网站
 
@@ -132,35 +132,35 @@ categories:
     icon: fa-solid fa-screwdriver-wrench
     links:
       - title: 刘明野的工具箱
-        logo: https://besticon-demo.herokuapp.com/icon?url=tools.liumingye.cn&size=32..32..120
+        logo: http://tools.liumingye.cn/favicon.ico
         url: https://tools.liumingye.cn/
         description: 刘明野的工具箱提供好用、易用的工具
       - title: 在线工具
-        logo: https://besticon-demo.herokuapp.com/icon?url=tool.lu&size=32..32..120
+        logo: https://tool.lu/favicon.ico
         url: https://tool.lu/
         description: 在线工具 - 你的工具箱
       - title: ALL TO ALL
-        logo: https://besticon-demo.herokuapp.com/icon?url=www.alltoall.net&size=32..32..120
+        logo: https://www.alltoall.net/qfy-content/uploads/2022/07/b42759ab5cf74aa8f1ce08d1317b6940.jpg
         url: https://www.alltoall.net/
         description: 在线格式转换网站
       - title: 临时邮箱
-        logo: https://besticon-demo.herokuapp.com/icon?url=mail.cx&size=32..32..120
+        logo: http://mail.cx/apple-touch-icon.png
         url: https://mail.cx/zh/
         description: 一次性临时电子邮件服务
       - title: SMS-Activate
-        logo: https://besticon-demo.herokuapp.com/icon?url=sms-activate.org&size=32..32..120
+        logo: https://sms-activate.org/favicon.ico
         url: https://sms-activate.org/
         description: 在线接受短信的虚拟号码服务
       - title: SM.MS
-        logo: https://besticon-demo.herokuapp.com/icon?url=smms.app&size=32..32..120
+        logo: https://smms.app/favicon.ico
         url: https://smms.app/
         description: 图像分享, 免费图床
       - title: AbeimAPI
-        logo: https://besticon-demo.herokuapp.com/icon?url=res.abeim.cn/api&size=32..32..120
+        logo: http://res.abeim.cn/favicon.ico
         url: https://res.abeim.cn/api/
         description: 免费稳定的API接口
       - title: UApi
-        logo: https://besticon-demo.herokuapp.com/icon?url=uapis.cn&size=32..32..120
+        logo: https://uapis.cn/favicon.ico
         url: https://uapis.cn/zh_cn/
         description: 提供免费接口调用平台
 
@@ -168,27 +168,27 @@ categories:
     icon: fa-solid fa-marker
     links: 
       - title: Pexels
-        logo: https://besticon-demo.herokuapp.com/icon?url=www.pexels.com&size=32..32..120
+        logo: https://www.pexels.com/favicon.ico
         url: https://www.pexels.com/
         description: 免费素材图片服务
       - title: unsplash
-        logo: https://besticon-demo.herokuapp.com/icon?url=unsplash.com&size=32..32..120
+        logo: https://unsplash.com/favicon.ico
         url: https://unsplash.com/
         description: 免版权的精美图片网站
       - title: Flaticon
-        logo: https://besticon-demo.herokuapp.com/icon?url=www.flaticon.com&size=32..32..120
+        logo: https://www.flaticon.com/favicon.ico
         url: https://www.flaticon.com/
         description: 丰富且免费的图标库
       - title: 可画
-        logo: https://besticon-demo.herokuapp.com/icon?url=www.canva.cn&size=32..32..120
+        logo: http://www.canva.cn/favicon.ico
         url: https://www.canva.cn/
         description: 各类素材设计制作网站
       - title: Color Hunt
-        logo: https://besticon-demo.herokuapp.com/icon?url=colorhunt.co&size=32..32..120
+        logo: https://colorhunt.co/img/color-hunt-icon-ios.png
         url: https://colorhunt.co/
         description: 为设计和艺术项目获取色彩灵感
       - title: TinyPNG
-        logo: https://besticon-demo.herokuapp.com/icon?url=tinify.cn&size=32..32..120
+        logo: https://tinify.cn/images/favicon.ico
         url: https://tinify.cn/
         description: 智能压缩Webp、JPEG和PNG图片
 
@@ -196,32 +196,32 @@ categories:
     icon: fa-brands fa-youtube
     links:
       - title: 小云搜索
-        logo: https://besticon-demo.herokuapp.com/icon?url=yunso.net&size=32..32..120
+        logo: https://besticon-demo.herokuapp.com/icon?url=yunso.net&size=16..32..120
         url: https://yunso.net/
         description: 网盘搜索引擎
       - title: 奈斯搜索
-        logo: https://besticon-demo.herokuapp.com/icon?url=www.niceso.fun&size=32..32..120
+        logo: https://www.niceso.net/favicon.ico
         url: https://www.niceso.fun/
         description: 阿里云盘资源搜索网站
       - title: BT之家
-        logo: https://besticon-demo.herokuapp.com/icon?url=www.btbtt18.com&size=32..32..120
+        logo: https://www.proxies.dynv6.net/www.btbtt18.com/favicon.ico
         url: https://www.btbtt18.com/
         description: BT种子站, 资源丰富, 无法访问可更改URL中数字18为20以内其余数字尝试
         tags: 被墙
       - title: MyFreeMP3
-        logo: https://besticon-demo.herokuapp.com/icon?url=tools.liumingye.cn/music&size=32..32..120
+        logo: http://tools.liumingye.cn/favicon.ico
         url: https://tools.liumingye.cn/music/#/
         description: 音乐试听/下载
       - title: 音乐搜索器
-        logo: https://besticon-demo.herokuapp.com/icon?url=www.xmsj.org&size=32..32..120
+        logo: http://www.xmsj.org/favicon.ico
         url: http://www.xmsj.org/
         description: 多站合一音乐搜索
       - title: Switch520
-        logo: https://besticon-demo.herokuapp.com/icon?url=laoquzhang.com&size=32..32..120
+        logo: https://besticon-demo.herokuapp.com/icon?url=laoquzhang.com&size=16..32..120
         url: https://laoquzhang.com/
         description: 游戏资源站
       - title: flysheep资源避难所
-        logo: https://besticon-demo.herokuapp.com/icon?url=www.flysheep6.com&size=32..32..120
+        logo: https://www.flysheep6.com/favicon.ico
         url: https://www.flysheep6.com/
         description: 游戏合集存档
 
@@ -229,15 +229,15 @@ categories:
     icon: fa-solid fa-gamepad
     links:
       - title: 神奇海螺试验场
-        logo: https://besticon-demo.herokuapp.com/icon?url=lab.magiconch.com&size=32..32..120
+        logo: https://besticon-demo.herokuapp.com/icon?url=lab.magiconch.com&size=16..32..120
         url: https://lab.magiconch.com/
         description: 有很多有趣的项目, 梗图生成器、在线鉴黄工具等
       - title: Life Restart
-        logo: https://besticon-demo.herokuapp.com/icon?url=liferestart.syaro.io/public&size=32..32..120
+        logo: https://besticon-demo.herokuapp.com/icon?url=liferestart.syaro.io/public&size=16..32..120
         url: https://liferestart.syaro.io/public/
         description: 风靡一时的人生重开模拟器
       - title: 羊了个羊
-        logo: https://besticon-demo.herokuapp.com/icon?url=yanglegeyang.ykwang.dynv6.net&size=32..32..120
+        logo: https://besticon-demo.herokuapp.com/icon?url=yanglegeyang.ykwang.dynv6.net&size=16..32..120
         url: https://yanglegeyang.ykwang.dynv6.net/
         description: 低配版羊了个羊系列小游戏, 部署于Vercel
       - title: 吃掉小鹿乃
@@ -257,6 +257,6 @@ categories:
         url: https://madisonwirtanen.github.io/homo/
         description: 一个将任意数字分解成 114514 构成的公式的工具, 部署于GitHub Pages
       - title: FakeUpdate
-        logo: https://besticon-demo.herokuapp.com/icon?url=fakeupdate.net&size=32..32..120
+        logo: https://besticon-demo.herokuapp.com/icon?url=fakeupdate.net&size=16..32..120
         url: https://fakeupdate.net/
         description: 假装Windows升级界面
