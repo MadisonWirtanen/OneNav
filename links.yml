@@ -92,7 +92,7 @@ categories:
         description: 个人影音库, 部署于本地, Cloudflare代理
       - title: Reader
         logo: https://cdn.imkk.uk/icon/nav/reader.ico
-        url: https://reader.imkk.uk/
+        url: https://yuedu.imkk.uk/
         description: 开源小说/网文阅读, 部署于本地, Cloudflare代理
       - title: FileBox
         logo: https://cdn.imkk.uk/icon/nav/filebox.png
