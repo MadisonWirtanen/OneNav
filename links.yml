@@ -74,10 +74,6 @@ categories:
         logo: https://cdn.imkk.uk/icon/nav/nextchat.ico
         url: https://chat.imkk.uk/
         description: ChatGPT网页应用, 部署于Vercel
-      - title: Ask2End
-        logo: https://cdn.imkk.uk/icon/nav/ask2end.ico
-        url: https://ask.imkk.uk/
-        description: 打破砂锅问到底, 部署于Vercel
       - title: BingAI
         logo: https://cdn.imkk.uk/icon/nav/bingai.ico
         url: https://bingai.imkk.uk/
@@ -106,7 +102,6 @@ categories:
         logo: https://crowded-coffee-wombat.faviconkit.com/singlelogin.re
         url: https://singlelogin.re/
         description: Zlibrary 影子图书馆起始页面
-        tags: 被墙
       - title: Library Genesis
         logo: https://crowded-coffee-wombat.faviconkit.com/libgen.li/32
         url: https://libgen.li/
@@ -211,7 +206,6 @@ categories:
         logo: https://crowded-coffee-wombat.faviconkit.com/www.btbtt18.com
         url: https://www.btbtt18.com/
         description: BT种子站, 资源丰富, 无法访问可更改URL中数字18为20以内其余数字尝试
-        tags: 被墙
       - title: MyFreeMP3
         logo: https://crowded-coffee-wombat.faviconkit.com/tools.liumingye.cn/music
         url: https://tools.liumingye.cn/music/#/
@@ -240,6 +234,10 @@ categories:
         logo: https://besticon-demo.herokuapp.com/icon?url=liferestart.syaro.io/public&size=16..32..120
         url: https://liferestart.syaro.io/public/
         description: 风靡一时的人生重开模拟器
+      - title: 扫雷
+        logo: https://cdn.imkk.uk/icon/nav/saolei.ico
+        url: https://saolei.imkk.uk/
+        description: 扫雷网页版, 部署于Vercel
       - title: 羊了个羊
         logo: https://besticon-demo.herokuapp.com/icon?url=yanglegeyang.ykwang.dynv6.net&size=16..32..120
         url: https://yanglegeyang.ykwang.dynv6.net/
@@ -248,10 +246,6 @@ categories:
         logo: https://cdn.jsdelivr.net/gh/MadisonWirtanen/image-hosting-web-site@main/link.png
         url: https://madisonwirtanen.github.io/EatKano/
         description: 新概念音游, 部署于GitHub Pages
-      - title: AntiOCR
-        logo: https://cdn.jsdelivr.net/gh/MadisonWirtanen/image-hosting-web-site@main/link.png
-        url: https://madisonwirtanen.github.io/AntiOCR/
-        description: 在图片上随机画点线以干扰文字识别通过公众号审核, 部署于GitHub Pages
       - title: 图种制作
         logo: https://cdn.jsdelivr.net/gh/MadisonWirtanen/image-hosting-web-site@main/link.png
         url: https://madisonwirtanen.github.io/js-seed-map/
