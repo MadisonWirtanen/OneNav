@@ -33,15 +33,15 @@ categories:
   - category: Star Links
     icon: fa-solid fa-star
     links:
-      - title: KKの主页
+      - title: 主页
         logo: https://cdn.imkk.uk/icon/svg/Home.svg
         url: https://www.imkk.uk/
         description: 我的主页, 欢迎访问
-      - title: KKの博客
+      - title: 博客
         logo: https://cdn.imkk.uk/icon/svg/Blog.svg
         url: https://blog.imkk.uk/
         description: 我的博客, 欢迎留言
-      - title: KKの监测站
+      - title: 监测站
         logo: https://cdn.imkk.uk/icon/svg/CheckCircle.svg
         url: https://monitor.imkk.uk/
         description: 监测网站运行状态
@@ -57,7 +57,7 @@ categories:
       - title: Cloudflare代理
         logo: https://cdn.imkk.uk/icon/nav/cloudflare.ico
         url: https://proxy.imkk.uk/
-        description: 输入目标网址即可访问, 对Wikipedia等站有优化, 其中Google不定时受限
+        description: 输入目标网址即可访问, 对Wikipedia等站有优化
       - title: Vercel代理
         logo: https://cdn.imkk.uk/icon/nav/vercel.ico
         url: https://www.proxies.dynv6.net/URL
@@ -237,11 +237,11 @@ categories:
       - title: 扫雷
         logo: https://cdn.imkk.uk/icon/nav/saolei.ico
         url: https://saolei.imkk.uk/
-        description: 扫雷网页版, 部署于Vercel
-      - title: 羊了个羊
-        logo: https://besticon-demo.herokuapp.com/icon?url=yanglegeyang.ykwang.dynv6.net&size=16..32..120
-        url: https://yanglegeyang.ykwang.dynv6.net/
-        description: 低配版羊了个羊系列小游戏, 部署于Vercel
+        description: 扫雷网页版, 部署于GitHub Pages
+      - title: 鱼了个鱼
+        logo: https://besticon-demo.herokuapp.com/icon?url=ylgy.imkk.uk&size=16..32..120
+        url: https://ylgy.imkk.uk/
+        description: 低配版羊了个羊系列小游戏, 部署于GitHub Pages
       - title: 吃掉小鹿乃
         logo: https://cdn.jsdelivr.net/gh/MadisonWirtanen/image-hosting-web-site@main/link.png
         url: https://madisonwirtanen.github.io/EatKano/
